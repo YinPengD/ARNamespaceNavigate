@@ -1,6 +1,6 @@
 **1.欢迎界面**
 
-![img](file:///C:/Users/Administrator/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+![mark](http://yp.guohaonan.cn/MPic/20190302/SA7N3xbffsKW.png?imageslim)
 
 图1.1 欢迎界面
 
@@ -8,7 +8,7 @@
 
 **2、AR扫描界面**
 
-**![img](file:///C:/Users/Administrator/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)**
+![mark](http://yp.guohaonan.cn/MPic/20190302/IoUDPwRlIELJ.png?imageslim)
 
 图2.1 AR扫描界面
 
@@ -22,7 +22,7 @@
 
 **2.1 AR扫描预览功能界面**
 
-**![img](file:///C:/Users/Administrator/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)**
+![mark](http://yp.guohaonan.cn/MPic/20190302/8Oj6I3j2teat.png?imageslim)
 
 图2.1.1 景点预览界面
 
@@ -30,7 +30,7 @@
 
 **2.2 AR精准化导航界面**
 
-**![img](file:///C:/Users/Administrator/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg)**
+![mark](http://yp.guohaonan.cn/MPic/20190302/0sKeqbyf1k5H.png?imageslim)
 
 图2.2.1 AR导航界面
 
@@ -38,7 +38,7 @@ AR精准化导航，用户点击图2.1.1中实体路牌附近的虚拟箭头即�
 
 **2.3 AR特色导航（景区定制）界面**
 
-**![img](file:///C:/Users/Administrator/AppData/Local/Temp/msohtmlclip1/01/clip_image010.jpg)**
+![mark](http://yp.guohaonan.cn/MPic/20190302/KT9dLMFQmetb.png?imageslim)
 
 图2.3.1 特色导航
 
@@ -46,13 +46,13 @@ AR精准化导航，用户点击图2.1.1中实体路牌附近的虚拟箭头即�
 
 **2.3.1特色导航——“发现”界面** 
 
-**![img](file:///C:/Users/Administrator/AppData/Local/Temp/msohtmlclip1/01/clip_image012.jpg)**
+![mark](http://yp.guohaonan.cn/MPic/20190302/Gjz4l6AkNfEg.png?imageslim)
 
 图2.3.1.1 特色导航——“发现”界面
 
 点击“发现”后即出现相应的AR特色体验场景，有AR互动游戏、身临其境式体验等与景区主题相符的特色方式。以此图为例，在路牌附近出现体验式门框，跟着手机旋转位置，然后进入，体验身临其境式AR游览。具体效果，如下图2.3.1.2所示。
 
-![img](file:///C:/Users/Administrator/AppData/Local/Temp/msohtmlclip1/01/clip_image014.jpg)
+![mark](http://yp.guohaonan.cn/MPic/20190302/NQ4csPwPENjG.png?imageslim)
 
 图2.3.1.2
 
@@ -60,7 +60,7 @@ AR精准化导航，用户点击图2.1.1中实体路牌附近的虚拟箭头即�
 
 **1、**    **搜索界面**
 
-![img](file:///C:/Users/Administrator/AppData/Local/Temp/msohtmlclip1/01/clip_image016.jpg)
+![mark](http://yp.guohaonan.cn/MPic/20190302/3YAhfKAtNiUy.png?imageslim)
 
 图3.1 搜索界面
 
@@ -68,7 +68,7 @@ AR精准化导航，用户点击图2.1.1中实体路牌附近的虚拟箭头即�
 
 **3.1** **搜索——普通导航界面**
 
-**![img](file:///C:/Users/Administrator/AppData/Local/Temp/msohtmlclip1/01/clip_image018.jpg)**
+![mark](http://yp.guohaonan.cn/MPic/20190302/eNQad7LAy7Fv.png?imageslim)
 
 图3.1.1 搜索——普通导航界面
 
@@ -76,7 +76,7 @@ AR精准化导航，用户点击图2.1.1中实体路牌附近的虚拟箭头即�
 
 **3.2** **搜索——AR导航界面**
 
-![img](file:///C:/Users/Administrator/AppData/Local/Temp/msohtmlclip1/01/clip_image020.jpg)
+![mark](http://yp.guohaonan.cn/MPic/20190302/MeoTds9hS4Kz.png?imageslim)
 
 搜索——AR导航界面
 
@@ -86,7 +86,7 @@ AR精准化导航，用户点击图2.1.1中实体路牌附近的虚拟箭头即�
 
 点击AR扫描主界面左上角的周边服务按钮，出现周边服务界面，包括搜索框以及公共厕所、酒店和车站等常用服务选项，搜索或选择自己所需的服务选项，就会出现相应服务类的地标，点击合适的店铺地标，通过AR导航便可立刻前往。
 
-![img](file:///C:/Users/Administrator/AppData/Local/Temp/msohtmlclip1/01/clip_image022.jpg)
+![mark](http://yp.guohaonan.cn/MPic/20190302/eUY8HEJVg1ll.png?imageslim)
 
 图4.2 服务项选择界面
 
